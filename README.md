@@ -1,2 +1,6 @@
-# Color-Picker
-build a color picker App with Next.JS
+Description: A tool to select and display a color.
+
+Functionalities:
+
+Color input to select a color
+Display the selected color value (hex, rgb)
